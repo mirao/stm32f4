@@ -2,7 +2,7 @@
 authors = ["Jaromir Obr <jaromir.obr@gmail.com>"]
 edition = "2021"
 readme = "README.md"
-name = "stm32f4"
+name = "stm32f407g-disc1"
 version = "0.1.0"
 
 [dependencies]
