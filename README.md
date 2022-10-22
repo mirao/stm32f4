@@ -12,6 +12,7 @@
 
 ### 2nd way
 * Install [VSCode](https://code.visualstudio.com/) and [Cortex-Debug](https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug)
-* VSCode: `Run -> Run Without Debugging`
+* VSCode: `Run -> Start Debugging`
+* Debugger: Press "`Continue`"
 * You should see a text "**Hello, world**" in terminal
-* Stop debugger
+* Debugger: Press "`Stop`"
